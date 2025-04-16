@@ -61448,7 +61448,7 @@ return B.c.aq(r,s)},
 $S:392}
 A.Ck.prototype={
 N(a){var s=null
-return new A.qh(new A.oA(new A.VR(),s,s,A.atG(),A.asA(),t.Cx),s,s,new A.t5(new A.ti(s),"Namer App",A.a9W(s,A.abY(B.ab,s,s,B.CL),!0),s),s,t.nO)}}
+return new A.qh(new A.oA(new A.VR(),s,s,A.atG(),A.asA(),t.Cx),s,s,new A.t5(new A.ti(s),"Word Combiner App",A.a9W(s,A.abY(B.ab,s,s,B.CL),!0),s),s,t.nO)}}
 A.VR.prototype={
 $1(a){var s=t.q0
 return new A.i3(A.aeX(),A.c([],s),A.c([],s),$.aC())},
