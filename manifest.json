@@ -1,6 +1,6 @@
 {
-    "name": "first_flutter_project",
-    "short_name": "first_flutter_project",
+    "name": "word combiner app",
+	"short_name": "word combiner app",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
